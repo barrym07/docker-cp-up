@@ -1,0 +1,9 @@
+#anything with temp in the name (per docs)
+*/temp*
+*/*/temp*
+temp?
+
+# env files
+*.env*
+
+node_modules
